@@ -13,7 +13,6 @@
 13) [[Reorganize strings (LC-767)]]
 14) [[Group anagrams (LC-49)]]
 15) [[Longest  palindrome (LC-409)]]
-16) [[Zig Zag conversion (LC-6) ]]
 17) [[Largest number (LC-179)]] 
 
 

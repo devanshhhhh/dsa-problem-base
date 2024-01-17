@@ -6,12 +6,11 @@
 6) [[Math]] 
 7) [[Recursion]] 
 8) [[Divide and Conquer]]
-9) [[Backtracking]] 
-10) [[Queues]] 
-11) [[Trees]] 
-12) [[Binary search trees]] 
-13) [[Heaps]] 
-14) [[Hashmaps]] 
+9) [[Queues]] 
+10) [[Trees]] 
+11) [[Binary search trees]] 
+12) [[Heaps]] 
+13) [[Hashmaps]] 
 
 
 

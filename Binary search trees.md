@@ -18,7 +18,6 @@
 18) [[Flatten a linked list to BST (CNJ)]] 
 19) [[Merge two BSTs (GFG)]] 
 20) [[Check if preorder is valid (CNJ)]] 
-21) [[Replace every element with the least greater element on its right (GFG)]] 
 
 
 

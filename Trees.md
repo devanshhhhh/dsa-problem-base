@@ -23,8 +23,7 @@
 23) [[Binary tree inorder traversal (Morris traversal) (LC-94)]]  
 24) [[Flatten binary tree to a linked list (LC-114)]] 
 25) [[Maximum sum of non-adjacent nodes (GFG)]] 
-26) [[Burning tree (GFG)]] 
-27) [[Find duplicate subtrees (LC-652)]] 
+26) [[Find duplicate subtrees (LC-652)]] 
  
 
 
