@@ -7,4 +7,4 @@ Congrats! you have a mind map for all the wonderful problems.
 
 Missing topics: Backtacking, Dynamic Programming, Graphs (will add more questions to Heaps as well)
 
-More at https://github.com/devanshhhhh/dsa-problem-base/wiki
+Preview at [Wiki](../../wiki/Map-your-DSA-journey-with-this-problem-base-using-Obsidian/)
